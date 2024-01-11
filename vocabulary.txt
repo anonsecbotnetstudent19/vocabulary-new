@@ -42,3 +42,4 @@
 +) bright (adj): sáng, sáng dạ
 +) quote (n,v): sự trích dẫn, trích dẫn
 +) sufficient (adj): đủ, hợp lý, có khả năng, có thẩm quyền
++) stimulation (n): sự kích thích
