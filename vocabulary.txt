@@ -36,3 +36,4 @@
 +) ordinary (adj,n): bình thường, sự bình thường
 +) entitle (v): cho đầu đề, cho tên sách, cho quyền làm gì
 +) condemn (v): kết án, kết tội
++) theory (n): lý thuyết
