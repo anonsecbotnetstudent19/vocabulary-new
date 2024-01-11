@@ -44,3 +44,4 @@
 +) sufficient (adj): đủ, hợp lý, có khả năng, có thẩm quyền
 +) stimulation (n): sự kích thích
 +) in trim: tỉnh táo
++) routine (n,adj): thói quen hằng ngày, quen thuộc
