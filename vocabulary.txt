@@ -40,3 +40,4 @@
 +) anatomy (n): giải phẫu học
 +) clarity (n): sự trong, sự sáng sủa, sự rõ ràng
 +) bright (adj): sáng, sáng dạ
++) quote (n,v): sự trích dẫn, trích dẫn
